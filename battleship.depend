@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653325415 source:c:\users\usuario\onedrive - pontificia universidad católica madre y maestra\escritorio\pucmm\materias segundo ciclo\fundamentos de programacion\asignaciones\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<conio.c>
+
